@@ -15,7 +15,7 @@ Welcome to **CodeLab**, an online code editor designed to provide a seamless and
 ## Figma Prototype
 
 Explore the design of CodeLab through our Figma prototype:
-[View Figma Prototype](https://www.figma.com/your-prototype-link)
+[View Figma Prototype](https://www.figma.com/proto/0IQdAHbdetF7lZJWV2e4tP/Untitled?node-id=0-1&t=c3R6fTMdoxJovcNl-1)
 
 ## Getting Started
 
