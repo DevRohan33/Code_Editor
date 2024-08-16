@@ -58,9 +58,6 @@ We're a passionate group of developers dedicated to making CodeLab the best onli
 - **Subhasis** - 🔧 Back-End Developer  
   Subhasis is the backbone of our server-side logic, creating robust and scalable solutions to power CodeLab's core functionalities.
 
-- **Arnab** - 🌐 Front-End Developer  
-  Arnab specializes in building interactive and dynamic web applications, making sure everything runs smoothly for our users.
-
 - **Rohan Parveag** - 🛠️ Back-End Developer & 🖌️ Figma Designer & 🗄️ DBMS Handler  
   Rohan handles the server-side operations, designs sleek prototypes in Figma, and manages our database systems to keep everything running efficiently.
 
